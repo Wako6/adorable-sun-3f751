@@ -8,7 +8,7 @@ sections:
     background_image: images/cover.webp
     background_image_opacity: 65
     content: >-
-      # Real, beautiful plants right to your door
+      # NhSupa #1 Marketplace for US FR and Dancehall Type beats
 
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
